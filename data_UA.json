@@ -1,0 +1,1 @@
+{ "type": "FeatureCollection","last_update":"2015-07-20 20:30:57", "features":[{"type": "Feature", "properties":{"incident_dateadd":"2015-07-14 12:35:39"}, "geometry": { "type": "Point", "coordinates": [38.34,47.82]}}, {"type": "Feature", "properties":{"incident_dateadd":"2015-07-20 17:14:56"}, "geometry": { "type": "Point", "coordinates": [38.34,48.52]}}]}
